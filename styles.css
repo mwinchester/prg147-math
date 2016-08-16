@@ -1,0 +1,10 @@
+body{
+    background:darkslategray;
+}
+
+.w3-container{
+    max-width:960px;
+    margin:10px auto;
+    background:ivory;
+    padding: 15px;
+}
